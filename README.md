@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first github repo
-author - gayu
+This is my first Git repository
+<br>
+Author - Gayu
